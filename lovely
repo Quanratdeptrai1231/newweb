@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tôi yêu Hạnh</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Trang web lưu giữ ảnh Hạnh </h1>
+    <p> Đây là người đáng yêu nhất thế  giới </p>
+	<img src="hanh1.jpg" alt="Ảnh của Hạnh" width="100">
+	<img src="hanh2.jpg" alt="Ảnh của Hạnh" width="100">
+</body>
+</html>
